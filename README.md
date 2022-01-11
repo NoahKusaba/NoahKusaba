@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NoahKusaba
+- I'm a mechanical engineer who is curios about front end & back end web development in Javascript (Currently working on front end) 
+- I will be uploading random projects I assign myself to document my progress over time. Goal is 2/month minimum
